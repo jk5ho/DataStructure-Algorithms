@@ -1,0 +1,8 @@
+﻿Runtime Analysis
+
+Task0 – O(1)
+Task1 – O(mn) where m is the number of text records and n is the number of call records 
+Task2 – O(n) where n is the number of call records
+Task3A – O(n log(n)) where n is the number of call records
+Task3B – O(n) where n is the number of call records
+Task4 – O(mn log(mn)) where m is the number of text records and n is the number of call records 
