@@ -55,6 +55,7 @@ for entry in calls:
 
 codeList = list(output)
 codeList.sort()
+
 print("The numbers called by people in Bangalore have codes: ")
 for code in codeList:
   print(code)
